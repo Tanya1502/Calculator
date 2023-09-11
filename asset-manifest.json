@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5df086b7.css",
-    "main.js": "/static/js/main.9c03dbbc.js",
-    "static/js/787.a174f9e5.chunk.js": "/static/js/787.a174f9e5.chunk.js",
-    "index.html": "/index.html",
-    "main.5df086b7.css.map": "/static/css/main.5df086b7.css.map",
-    "main.9c03dbbc.js.map": "/static/js/main.9c03dbbc.js.map",
-    "787.a174f9e5.chunk.js.map": "/static/js/787.a174f9e5.chunk.js.map"
+    "main.css": "https://tanya1502.github.io/Calculator/static/css/main.5df086b7.css",
+    "main.js": "https://tanya1502.github.io/Calculator/static/js/main.eabd44b6.js",
+    "static/js/787.a174f9e5.chunk.js": "https://tanya1502.github.io/Calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "https://tanya1502.github.io/Calculator/index.html",
+    "main.5df086b7.css.map": "https://tanya1502.github.io/Calculator/static/css/main.5df086b7.css.map",
+    "main.eabd44b6.js.map": "https://tanya1502.github.io/Calculator/static/js/main.eabd44b6.js.map",
+    "787.a174f9e5.chunk.js.map": "https://tanya1502.github.io/Calculator/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5df086b7.css",
-    "static/js/main.9c03dbbc.js"
+    "static/js/main.eabd44b6.js"
   ]
 }
